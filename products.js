@@ -156,7 +156,7 @@ description: "Classic cross-strap sandals perfect for any occasion."
     name: "Bag",
     category: "GEniun leather",
     price: 350000,
-    image: "./products/bag.jpp",
+    image: "./products/bag.jpg",
     description: "Best for school going."
     },
 ];
