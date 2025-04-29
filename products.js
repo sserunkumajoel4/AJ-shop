@@ -1,4 +1,4 @@
-aquariumlet products = [
+C300aquariumlet products = [
     {
         id: 1,
 name: "Classic Leather Belt",
@@ -164,6 +164,6 @@ description: "Classic cross-strap sandals perfect for any occasion."
         name:sandal,
         category:coprate,
         price:45,
-        imagine:./products/.jpg
+        imagine:./products/.20250425_170529.jpg
     }
 ];
