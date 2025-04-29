@@ -151,4 +151,12 @@ description: "Classic cross-strap sandals perfect for any occasion."
     image: "./products/leather stearing .jpg",
     description: "Based for comfortable driving."
     },
+    {
+    id: 18,
+    name: "Bag",
+    category: "GEniun leather",
+    price: 35000,
+    image: "./products/leather stearing .jpg",
+    description: "Best for school going."
+    },
 ];
