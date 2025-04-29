@@ -1,4 +1,4 @@
-let products = [
+aquariumlet products = [
     {
         id: 1,
 name: "Classic Leather Belt",
@@ -159,4 +159,11 @@ description: "Classic cross-strap sandals perfect for any occasion."
     image: "./products/bag.jpg",
     description: "Best for school going."
     },
+    {
+        id:19,
+        name:sandal,
+        category:coprate,
+        price:45,
+        imagine:./products/.jpg
+    }
 ];
