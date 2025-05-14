@@ -1,4 +1,4 @@
-C300aquariumlet products = [
+let products = [
     {
         id: 1,
 name: "Classic Leather Belt",
@@ -151,19 +151,44 @@ description: "Classic cross-strap sandals perfect for any occasion."
     image: "./products/leather stearing .jpg",
     description: "Based for comfortable driving."
     },
-    {
-    id: 18,
-    name: "Bag",
-    category: "GEniun leather",
-    price: 350000,
-    image: "./products/bag.jpg",
-    description: "Best for school going."
+
+
+
+{
+    id: 17,
+    name: "KASOZI CAR ",
+    category: "Car steering",
+    price: 35000,
+    image: "./products/leather stearing .jpg",
+    description: "Based for comfortable driving."
     },
-    {
-        id:19,
-        name:sandal,
-        category:coprate,
-        price:45,
-        imagine:./products/.20250425_170529.jpg
-    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ];
